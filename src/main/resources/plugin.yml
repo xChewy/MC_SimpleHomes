@@ -1,9 +1,9 @@
-name: Simplehomes
-version: 1.0
+name: SimpleHomes
+version: '${project.version}'
 main: me.xchewy.simplehomes.SimpleHomes
-api-version: 1.18
-authors: [ xChewy ]
-description: A basic home Spigot plugin for Minecraft 1.18.1
+api-version: '1.20'
+authors: [xChewy]
+description: a basic set home plugin for Spigot version 1.20.2
 commands:
   Home:
     description: Teleports the player to their set bed.
