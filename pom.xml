@@ -6,12 +6,12 @@
 
     <groupId>me.xchewy</groupId>
     <artifactId>SimpleHomes</artifactId>
-    <version>1.2</version>
+    <version>1.3</version>
     <packaging>jar</packaging>
 
     <name>SimpleHomes</name>
 
-    <description>a basic set home plugin for Spigot version 1.20.2</description>
+    <description>a basic set home plugin for Spigot version 1.21.4</description>
     <properties>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -68,7 +68,7 @@
         <dependency>
             <groupId>org.spigotmc</groupId>
             <artifactId>spigot-api</artifactId>
-            <version>1.20.2-R0.1-SNAPSHOT</version>
+            <version>1.21.4-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
