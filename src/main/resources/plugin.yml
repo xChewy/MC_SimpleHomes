@@ -3,7 +3,7 @@ version: '${project.version}'
 main: me.xchewy.simplehomes.SimpleHomes
 api-version: '1.21'
 authors: [xChewy]
-description: a basic set home plugin for Spigot version 1.21.4
+description: a basic set home plugin for Spigot version 1.21.5
 commands:
   Home:
     description: Teleports the player to their set bed.
