@@ -1,4 +1,4 @@
-# SimpleHomes - 1.2 (1.20.2)
+# SimpleHomes - 1.3 (MC - 1.21.4)
 A basic home Spigot plugin for Minecraft
 
 # Commands:
