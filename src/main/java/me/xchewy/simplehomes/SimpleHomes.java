@@ -24,11 +24,6 @@ public final class SimpleHomes extends JavaPlugin {
         if (!((sender) instanceof Player)) {return true;}
         Player player = (Player) sender;
 
-        if (command.getName().equalsIgnoreCase("SetHome") && !getConfig().getBoolean("use-beds")) {
-            player.setRespawnLocation(player.getLocation());
-            player.sendMessage(ChatColor.GOLD + "[Simple Homes]" + ChatColor.GREEN + " Home set!");
-        }
-
         if (command.getName().equalsIgnoreCase("Home")) {
             if (player.getRespawnLocation() == null) {
                 player.sendMessage(ChatColor.GOLD + "[Simple Homes]" + ChatColor.RED + " You have no bed set!");
