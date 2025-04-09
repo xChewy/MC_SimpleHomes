@@ -1,5 +1,5 @@
-# SimpleHomes - 1.3 (MC - 1.21.4)
-A basic home Spigot plugin for Minecraft
+# SimpleHomes - 1.5 (MC - 1.21.5)
+A basic home Spigot/Paper plugin for Minecraft
 
 # Commands:
   - /home - teleports player to their set bed
